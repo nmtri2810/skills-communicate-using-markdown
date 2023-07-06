@@ -11,3 +11,7 @@
 npm i
 This command installs a package and any packages that it depends on
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
